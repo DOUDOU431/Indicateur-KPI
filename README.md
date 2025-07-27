@@ -149,6 +149,4 @@ La mise en œuvre des KPI est un levier stratégique pour garantir :
 * La création de valeur
 * Une culture de pilotage par la donnée, reposant sur une **architecture technique robuste
 
-
-
 TOURE Mamadou
